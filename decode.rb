@@ -19,7 +19,4 @@ def decode_word(coded_word)
     actual_word += char
   end
   actual_word
-  
 end
-
-puts decode_word('.--. . .- -.-. .')
