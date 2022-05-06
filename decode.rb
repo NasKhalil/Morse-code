@@ -21,7 +21,6 @@ def decode_word(coded_word)
   actual_word
 end
 
-
 def decode_msg(input_msg)
   msg = []
   input_msg.split('   ').each do |word|
